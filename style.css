@@ -1,0 +1,36 @@
+#main {
+  text-align: center; /* Center align all elements within main */
+  max-width: 800px; 
+  margin: 0 auto; /* Center the main container itself */
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+#title {
+  margin-bottom: 20px;
+}
+
+#img-div {
+  margin-bottom: 20px;
+}
+
+#image {
+  max-width: 100%; 
+  height: auto;  
+  display: block; /* Makes the image behave like a block element to center it */
+  margin: 0 auto; 
+}
+
+#img-caption {
+  font-style: italic;
+}
+
+#tribute-info {
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+#tribute-link {
+  display: block; /* Ensures the link takes up full width for better clickability */
+  margin-top: 20px;
+}
